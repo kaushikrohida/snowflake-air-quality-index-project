@@ -1,0 +1,1 @@
+# snowflake-air-quality-index-project
